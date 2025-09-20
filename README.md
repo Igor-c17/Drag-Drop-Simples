@@ -31,3 +31,4 @@ e boas práticas de usabilidade, mantendo o código limpo e modular.
 
 ---
 
+Segue o link do projeto: https://drag-drop-simples.vercel.app/
